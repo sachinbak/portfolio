@@ -1,4 +1,7 @@
 @charset "utf-8";
+html {
+	scroll-behavior: smooth;
+  }
 /* CSS Document */
 body{
 	margin:0px;
